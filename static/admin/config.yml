@@ -1,6 +1,6 @@
 backend: 
   name: github
-  repo: jessvrooyen/netlifycms
+  repo: jessicavrooyen/netlifycms
 
 media_folder: static/assets
 
